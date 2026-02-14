@@ -1,0 +1,8 @@
+{
+  "name": "AKMTWELL - Virtual Health Companion",
+  "description": "A comprehensive production-ready telemedicine platform featuring AI triage, remote consultation, electronic medical records (EMR), and chronic patient monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
